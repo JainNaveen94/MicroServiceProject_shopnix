@@ -1,4 +1,4 @@
-package com.nagarro.microservice.service;
+package com.nagarro.microservice.service.proxy.service;
 
 import org.springframework.cloud.netflix.ribbon.RibbonClient;
 import org.springframework.cloud.openfeign.FeignClient;

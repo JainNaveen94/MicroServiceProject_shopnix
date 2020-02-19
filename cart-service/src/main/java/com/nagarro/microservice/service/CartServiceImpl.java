@@ -10,6 +10,7 @@ import com.nagarro.microservice.exception.custom.CartException;
 import com.nagarro.microservice.model.Cart;
 import com.nagarro.microservice.model.CartProduct;
 import com.nagarro.microservice.model.Product;
+import com.nagarro.microservice.service.proxy.service.ProductServiceProxy;
 
 @Service
 public class CartServiceImpl implements CartService {
